@@ -34,7 +34,7 @@ namespace BeerSting.Api.Function
              switch (howtocompare.ToLower())
              {
                  case "year":
-                     diff = Convert.ToDouble(TS.TotalDays / 365); // เดาว่า TS.TotalDays น่าจะคือจำนวนวันผลลัพธ์ที่ลบกันแล้ว มาหารด้วย 365 คือจำนวนวันในแต่ละปี ก็จะได้จำนวนปี
+                     diff = Convert.ToDouble(TS.TotalDays / 365); 
                      break;
                  case "month":
                      diff = Convert.ToDouble((TS.TotalDays / 365) * 12);

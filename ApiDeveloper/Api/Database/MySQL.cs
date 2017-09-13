@@ -80,7 +80,6 @@ namespace BeerSting.Api.Database
 //____________ วิธีการใช้งาน
    //  DBManager.DB.ExecuteNonQuery("UPDATE cf_user SET strLastName = '{0}', strFirstName = '{1}' WHERE nID = {2:d}", "Beer_1", "Beer_2", 2);
 
-
       public int insertQuery(string table, string[] fields, object[] values)
         {
             try
@@ -140,8 +139,7 @@ namespace BeerSting.Api.Database
             }
         }
  //____________ วิธีการใช้งาน
-   //DBManager.DB.insertQuery("cf_attachment", new string[] { "strPath", "nCirculationHistoryId" }, new object[] { "WCW Sting", 5 });
-       
+   //DBManager.DB.insertQuery("cf_attachment", new string[] { "strPath", "nCirculationHistoryId" }, new object[] { "WCW Sting", 5 });    
 
         public int updateQuery(string table, string[] fields, object[] values, string conditionField, object conditionValue)
         {
@@ -207,8 +205,6 @@ namespace BeerSting.Api.Database
         //   iDictionary.Add("@strFirstName", "FirstBeer");
         //   iDictionary.Add("@nID", 2);
         //   DBManager.DB.Execute("UPDATE cf_user SET strLastName = @strLastName, strFirstName = @strFirstName WHERE (nID = @nID);", (IDictionary)iDictionary);
-
-
 
         public object ExecuteScalar(string query, params object[] param)
         {

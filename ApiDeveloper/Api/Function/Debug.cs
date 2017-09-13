@@ -39,7 +39,7 @@ namespace Developer.Api.Function
         private static StreamWriter m_Stream = null;
 
 
-        public static void Init() // เป็นคำสั่งในการสร้างไฟล์ไว้รอ
+        public static void Init() 
         {
             try
             {
@@ -49,16 +49,16 @@ namespace Developer.Api.Function
 
                 string fname = System.Windows.Forms.Application.StartupPath + "\\log\\error.log";
 
-                if (File.Exists(fname)) // ถ้าไฟล์มีอยู่จริง
+                if (File.Exists(fname)) 
                 {
-                    FileInfo f = new FileInfo(fname); // อ่านไฟล์เข้ามา
+                    FileInfo f = new FileInfo(fname); 
                     if (f.Length > 1024000)
                         m_Stream = new StreamWriter(fname, false, UTF8Encoding.UTF8);
                     else
                         m_Stream = new StreamWriter(fname, true, UTF8Encoding.UTF8);
                 }
                 else
-                    m_Stream = new StreamWriter(fname, false, UTF8Encoding.UTF8); // สร้างไฟล์ว่างเปล่า ต้องมีการสร้าง Folder ไว้รอแล้วไม่งั้น Error
+                    m_Stream = new StreamWriter(fname, false, UTF8Encoding.UTF8); 
                 m_Stream.AutoFlush = true;
             }
             catch { m_Stream = null; }
@@ -95,7 +95,7 @@ namespace Developer.Api.Function
         {
             if (m_Stream == null)
             {
-                Init(); // คำสั่งในการเขียน File
+                Init(); 
             }
             str = string.Format(str, param);
 
@@ -108,7 +108,7 @@ namespace Developer.Api.Function
                 FileStream fs = new FileStream(fname, FileMode.Create);
                 m_Stream = new StreamWriter(fs);
             }
-            m_Stream.WriteLine(str); // คำสั้งให้เขียน มันจะเขียนต่อท้ายลงไปเรื่อยๆ
+            m_Stream.WriteLine(str);
 
         }
         public static void Alert(Exception e)
