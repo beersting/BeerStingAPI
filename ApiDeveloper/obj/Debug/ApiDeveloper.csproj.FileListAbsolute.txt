@@ -1,0 +1,8 @@
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\bin\Debug\DeveloperApi.exe
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\bin\Debug\DeveloperApi.pdb
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\bin\Debug\MySql.Data.dll
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\bin\Debug\System.Data.SQLite.DLL
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\obj\Debug\ApiDeveloper.csproj.ResolveComReference.cache
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\obj\Debug\DeveloperApi.exe
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\obj\Debug\DeveloperApi.pdb
+D:\Beer\Work\Deverlop Program\Dot net\C#\ApiDeveloper\ApiDeveloper\obj\Debug\ApiDeveloper.csprojResolveAssemblyReference.cache

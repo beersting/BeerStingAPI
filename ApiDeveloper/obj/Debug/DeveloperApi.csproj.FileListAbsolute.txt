@@ -1,0 +1,6 @@
+D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi\bin\Debug\DeveloperApi.exe
+D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi\bin\Debug\DeveloperApi.pdb
+D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi\bin\Debug\MySql.Data.dll
+D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi\obj\Debug\ResolveAssemblyReference.cache
+D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi\obj\Debug\DeveloperApi.exe
+D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi\obj\Debug\DeveloperApi.pdb

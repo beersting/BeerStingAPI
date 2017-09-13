@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DeveloperApi">
+</Property><Property Name="Solution File" Value="D:\Beer\Work\Deverlop Program\Dot net\C#\DeveloperApi\DeveloperApi.sln">
+</Property><Property Name="Date" Value="Thursday, March 15, 2012">
+</Property><Property Name="Time" Value="16:49:18 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="DataBaseConnection" Source="..\..\..\..\..\is Backup HD Drive\I\Work Beer\K&amp;O\Program เบียร์ทำ\Dotnet\DataBaseConnection\DataBaseConnection.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataBaseConnection" Source="..\..\..\..\..\is Backup HD Drive\I\Work Beer\K&amp;O\Program เบียร์ทำ\Dotnet\DataBaseConnection\DataBaseConnection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataBaseConnection" Source="..\..\..\..\..\is Backup HD Drive\I\Work Beer\K&amp;O\Program เบียร์ทำ\Dotnet\DataBaseConnection\DataBaseConnection.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

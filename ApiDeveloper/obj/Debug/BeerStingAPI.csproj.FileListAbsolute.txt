@@ -1,0 +1,7 @@
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\bin\Debug\BeerStingAPI.dll
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\bin\Debug\BeerStingAPI.pdb
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\bin\Debug\MySql.Data.dll
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\obj\Debug\BeerStingAPI.csproj.ResolveComReference.cache
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\obj\Debug\BeerStingAPI.dll
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\obj\Debug\BeerStingAPI.pdb
+D:\Beer\Work\Deverlop Program\Dot net\C#\BeerStingAPI\ApiDeveloper\obj\Debug\BeerStingAPI.csprojResolveAssemblyReference.cache
