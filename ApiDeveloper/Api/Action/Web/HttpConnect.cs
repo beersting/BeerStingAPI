@@ -39,7 +39,7 @@ namespace BeerSting.Api.Action.Web
             request.Method = method; //Or GET, PUT, DELETE, POST
             request.ContentType = "text/plain;charset=utf-8";
             //httpWebRequest.ContentType = "application/json";
-            //request.ContentType = "application/x-www-form-urlencoded";
+            request.ContentType = "application/x-www-form-urlencoded";
 
             if (method.ToLower().Equals("post"))
             {
