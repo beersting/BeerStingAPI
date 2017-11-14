@@ -100,9 +100,10 @@
     <Compile Include="Api\Function\WinRar.cs" />
     <None Include="Api\Function\WinZip.cs" />
     <Compile Include="Api\Function\XMLManager.cs" />
+    <Compile Include="Api\IO\NetworkShare.cs" />
     <Compile Include="Api\Microsoft\Excels\ExcelManager.cs" />
     <Compile Include="Api\Microsoft\Excels\ExcelWorkbook.cs" />
-    <Compile Include="Api\Microsoft\XMLSerialize.cs" />
+    <Compile Include="Api\Function\XMLSerialize.cs" />
     <Compile Include="Api\Test\ExcelTestQuery.cs" />
     <Compile Include="Api\Test\Test.cs" />
     <Compile Include="Program.cs" />
